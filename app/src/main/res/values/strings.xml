@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SRBComercial</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome_obrigatorio">Campo nome obrigatório</string>
+    <string name="endereco_obrigatorio">Campo endereco obrigatório</string>
+    <string name="numero_obrigatorio">Campo numero obrigatório</string>
+    <string name="bairro_obrigatorio">Campo bairro obrigatório</string>
+    <string name="cidade_obrigatorio">Campo cidade obrigatório</string>
+    <string name="cep_obrigatorio">Campo cep obrigatório</string>
+    <string name="estado_obrigatorio">Campo estado obrigatório</string>
+    <string name="ddd_obrigatorio">Campo ddd obrigatório</string>
+    <string name="telefone_obrigatorio">Campo telefone obrigatório</string>
+    <string name="email_obrigatorio">Campo email obrigatório</string>
+    <string name="cpf_obrigatorio">Campo cpf obrigatório</string>
+    <string name="registro_salvo_com_sucesso">Dados salvo com sucesso</string>
+
+</resources>
